@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reproducible Builds Summit 2016: impressions
+title: Reproducible Builds Summit 2016
 ---
 
 This is the second week of my internship period for the Reproducible Builds project of Debian, and its is very fortunate that exactly then I was starting to dig more into the project, I got the opportunity to take part on Reproducible Builds Summit II, taking place in Berlin. People from different projects who take part in reproducible builds effort, gathered here to discuss their vison of the project, share knowledge and brainstorm ideas that would benefit us all.
