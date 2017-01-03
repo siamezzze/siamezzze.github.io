@@ -2,9 +2,9 @@
 layout: post
 title: Getting to know diffoscope better
 ---
-I apologize to all potential readers of this post for not writing a comprehensive "Introduction" post with details of the project I am taking part in during my internship, as well as some story about how I ended up there.
+I apologize to all potential readers of this blog for not writing a comprehensive "Introduction" post with details of the project I am taking part in during my internship, as well as some story about how I ended up there.
 
-Let me just say that I was a Debian fan for years when I discovered it is taking part in Outreachy as one of organisations. Their [Reproducible Builds](https://reproducible-builds.org/) effort has a noble goal and a bunch of great people behind it - I had no chances not to get excited by it. Looking for a place where my skills could be of any use, I discovered **diffoscope** - the tool for in-depth comparassion of files, archives etc. My mentor, Mattia Rizzolo, supported my decision, so now I am concentrating my efforts on improving diffoscope.
+Let me just say that I was a Debian user for years when I discovered it is taking part in Outreachy as one of organisations. Their [Reproducible Builds](https://reproducible-builds.org/) effort has a noble goal and a bunch of great people behind it - I had no chances not to get excited by it. Looking for a place where my skills could be of any use, I discovered **diffoscope** - the tool for in-depth comparassion of files, archives etc. My mentor, Mattia Rizzolo, supported my decision to work on it, so now I am concentrating my efforts on improving diffoscope.
 
 As my first steps, I am doing small (but hopefully still somewhat important) job of fixing existing bugs. It helps me to better understand how diffoscope works, as well as introduces me to the workflow of opensource development.
 
