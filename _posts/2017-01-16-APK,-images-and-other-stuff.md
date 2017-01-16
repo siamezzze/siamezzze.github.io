@@ -13,7 +13,7 @@ I worked on [#850501](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=850501) 
 Thanks to Emanuel Bronshtein for providing clear description on how to reproduce these 
 bugs and ideas on how to fix them. 
 
-And special thanks to Cris Lamb for insisting on providing tests for these changes! 
+And special thanks to Chris Lamb for insisting on providing tests for these changes! 
 That part actually proved to be little more tricky, and I managed to mess up with these tests (extra thanks to Chris for 
 cleaning up the mess I created). Hope that also means I learned something from my mistakes.
 
